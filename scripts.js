@@ -1,6 +1,6 @@
 // app.js
 
-// Variables globales
+// Variables globales revisar el codigo
 let users = JSON.parse(localStorage.getItem('users')) || [];
 let editingId = null;
 const userForm = document.getElementById('userForm');
